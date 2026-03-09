@@ -53,7 +53,6 @@ const Navbar = () => {
           </div>
         </div>
 
-        {/* MOBILE DROPDOWN */}
         {mobileDrawerOpen && (
           <div className="fixed top-16 left-0 w-full bg-neutral-900 p-8 flex flex-col items-center lg:hidden">
 
