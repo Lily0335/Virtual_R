@@ -16,6 +16,11 @@ const HeroSection = () => {
             Empowering developers with cutting-edge tools to create immersive virtual reality experiences. Our platform provides a seamless development environment, robust APIs, and comprehensive documentation to help you bring your VR projects to life. Whether you're building games, simulations, or interactive applications, our tools are designed to enhance your creativity and streamline your workflow.
 
         </p>
+        <div className="flex justify-center my-10">
+            <a href="#" className='bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md'>
+             Start for free   
+            </a>
+        </div>
     </div>
   )
 }
