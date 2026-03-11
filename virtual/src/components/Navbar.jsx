@@ -45,7 +45,6 @@ const Navbar = () => {
             </a>
           </div>
 
-          {/* MOBILE MENU BUTTON */}
           <div className="lg:hidden">
             <button onClick={toggleNavbar}>
               {mobileDrawerOpen ? <X /> : <Menu />}
