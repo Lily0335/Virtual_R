@@ -13,7 +13,7 @@ const HeroSection = () => {
 
         </h1>
         <p className='mt-10 text-lg text-center text-neutral-500 max-w-4xl'>
-            Empowering developers with cutting-edge tools to create immersive virtual reality experiences. Our platform provides a seamless development environment, robust APIs, and comprehensive documentation to help you bring your VR projects to life. Whether you're building games, simulations, or interactive applications, our tools are designed to enhance your creativity and streamline your workflow.
+            Empowering developers with cutting-edge tools to create immersive virtual reality experiences. Our platform provides a seamless development environment, robust APIs, and comprehensive documentation to help you bring your VR projects to life. Whether you're building games, simulations, or interactive applications, our tools are designed to enhance your creativity and streamline your.
 
         </p>
         <div className="flex justify-center my-10">
