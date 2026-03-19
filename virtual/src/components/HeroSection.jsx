@@ -8,7 +8,7 @@ const HeroSection = () => {
             VirtualR build tools 
             <span className='bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text'>
             {" "} 
-            for developer
+            for developers
             </span>
 
         </h1>
